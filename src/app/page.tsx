@@ -11,7 +11,7 @@ export default function Home() {
         width={250}
         height={250}
         alt="Baque Voador"
-        className="hover:animate-pulse"
+        className=""
       />
     </div>
   );
